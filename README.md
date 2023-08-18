@@ -1,0 +1,1 @@
+# ascii-animation-json-generator

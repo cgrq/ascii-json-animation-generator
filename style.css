@@ -1,0 +1,16 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #05094c;
+    font-family: 'Courier';
+    color: #FFF;
+    font-size: 12px;
+    line-height: 10px;
+}
+
+#asciiContainer{
+    display: flex;
+    justify-content: center;
+    overflow: hidden;
+    margin-top:-300px;
+}
